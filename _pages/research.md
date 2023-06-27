@@ -8,7 +8,7 @@ author_profile: true
 Stochastic Thermodynamics
 ======
 
-![](/images/StochTherm.png)
+<img src='/images/500x300.png'>
 
 
 Analytic approximation of nonlinear differential equations: the BLUES function method
