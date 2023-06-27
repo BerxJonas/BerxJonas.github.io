@@ -4,3 +4,11 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+
+Stochastic Thermodynamics
+======
+
+Analytic approximation of nonlinear differential equations: the BLUES function method
+======
+
+
