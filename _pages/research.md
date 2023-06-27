@@ -19,11 +19,6 @@ author_profile: true
   </div>
 </div>
 
-<ul>
-    <li style="display:inline-block;">
-        <a href="index.html" style="text-decoration:none; color:#00FFFF;"><h1>Home</h1></a>
-    </li>
-    <li style="display:inline-block;">
-        <a href="staff.html" style="text-decoration:none; color:#00FFFF;"><h1>Staff</h1></a>
-    </li>
-</ul>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](/images/StochTherm.png)  |  ![](/images/StochTherm.png)
