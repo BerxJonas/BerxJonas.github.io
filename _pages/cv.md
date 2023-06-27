@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,14 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Education
-======
-* Ph.D. Theoretical Physics, KU Leuven, Belgium, 2021\
-<b>Topic:</b> Deposition, diffusion and convections: BLUES approximants and some exact results\
-[Download thesis](http://berxjonas.github.io/files/pdf/PhD_Berx.pdf)
-* M.Sc. Theoretical Physics, KU Leuven, Belgium, 2018
-* B.Sc. Physics, Hasselt University, Belgium, 2016
 
 Experience
 ======
@@ -32,18 +24,20 @@ Institute for Theoretical Physics, KU Leuven, Belgium
 * <b>10/2021 - 01/2022</b>: Postdoctoral Researcher\
 Living Matter Physics, Max Planck Institute for Dynamics and Self-Organisation, Germany
 
+Education
+======
+* Ph.D. Theoretical Physics, KU Leuven, Belgium, 2021\
+<b>Topic:</b> Deposition, diffusion and convections: BLUES approximants and some exact results\
+[Download thesis](http://berxjonas.github.io/files/pdf/PhD_Berx.pdf)
+* M.Sc. Theoretical Physics, KU Leuven, Belgium, 2018
+* B.Sc. Physics, Hasselt University, Belgium, 2016
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-| Languages | Dutch (mother tongue), English (full professional knowledge), French, German, Danish (hopefully) |
+| Skill |  |
 |---|---|
+| Languages | Dutch (mother tongue), English (full professional knowledge), French, German, Danish (hopefully) |
 | Programming/ICT | C/C++, Mathematica, Matlab, Python, Bash, LaTeX |
 
 Publications
