@@ -84,9 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "Theoretical Physicist specializing in non-equilibrium statistical mechanics and complex systems"
   location         : "Copenhagen, Denmark"
-  employer         : > "Niels Bohr International Academy,
-  						Niels Bohr Institute,
-  						University of Copenhagen"
+  employer         : > "Niels Bohr International Academy,"
+  					   "Niels Bohr Institute,"
+  					   "University of Copenhagen"
   googlescholar    : "https://scholar.google.com/citations?user=zclxsTkAAAAJ&hl=en&oi=ao"
   email            : "jonas.berx@nbi.ku.dk"
   uri              :
