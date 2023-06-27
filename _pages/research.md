@@ -5,9 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
-[<img src='/images/StochTherm.png' width="200" height="200">](/research/stochastic_thermodynamics)
+[<div class="container">
+  <img src="/images/StochTherm.png" alt="Avatar" class="image">
+  <div class="overlay">My Name is John</div>
+</div>>](/research/stochastic_thermodynamics)
 
 <div class="container">
-  [<img src="/images/StochTherm.png" alt="Avatar" class="image">](/research/stochastic_thermodynamics)
+  <img src="/images/StochTherm.png" alt="Avatar" class="image">
   <div class="overlay">My Name is John</div>
 </div>
