@@ -9,10 +9,4 @@ Stochastic thermodynamics provides a framework for understanding and quantifying
 
 My research focuses on the stochastic behaviour of chemical reaction networks involved in (biochemical) replication processes. The most well-known of these is kinetic proofreading (KPR), where energy can be consumed, e.g., in the form of ATP hydrolysis, in order to increase accuracy on a microscopic scale. More specifically, I look at a form of proofreading called "energy relay proofreading", which is able to increase the accuracy without consuming ATP molecules by making use of the energy released through catalysis to elevate the enzyme to a higher energy state, from which it can then irreversibly proofread.
 
-<object data="http://berxjonas.github.io/images/ERPR_networks.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://berxjonas.github.io/images/ERPR_networks.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://berxjonas.github.io/images/ERPR_networks.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
-![](/images/ERPR_networks.pdf)
+![](/images/ERPR_networks.png)
