@@ -40,18 +40,17 @@ Skills
 | Languages | Dutch (mother tongue), English (full professional knowledge), French, German, Danish (hopefully) |
 | Programming/ICT | C/C++, Mathematica, Matlab, Python, Bash, LaTeX |
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
 * Reviewer: Physica A, Entropy
+
+Teaching and Supervision
+======
+* Course coordinator theoretical physics bachelor theses
+* Supervisor bachelor & master thesis
+* Supervisor research internships (x2)
+* Teaching assistant (undergraduate courses):
+   * Introductory physics for Physical Therapy
+   * Experimental Methods in Physics
+   * Advanced Physics for Civil Engineering
+   * Physics for Business Engineering
