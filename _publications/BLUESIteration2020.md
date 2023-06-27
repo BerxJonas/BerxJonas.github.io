@@ -10,4 +10,4 @@ citation: 'Jonas Berx and Joseph O. Indekeu, &quot;BLUES iteration applied to no
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/pdf/BLUESIteration.pdf)
+[Download paper here](http://berxjonas.github.io/files/pdf/BLUESIteration.pdf)
