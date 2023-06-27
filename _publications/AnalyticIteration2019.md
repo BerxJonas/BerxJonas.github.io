@@ -10,4 +10,4 @@ citation: 'Jonas Berx and Joseph O. Indekeu, &quot;Analytic iteration procedure 
 ---
 What if I change this?
 
-[Accepted manuscript](http://BerxJonas.github.io/files/pdf/AnalyticIteration.pdf)
+[Download preprint](http://BerxJonas.github.io/files/pdf/AnalyticIteration.pdf)
