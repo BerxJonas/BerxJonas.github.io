@@ -5,12 +5,7 @@ permalink: /research/stochastic_thermodynamics
 author_profile: true
 ---
 
-<div id="wrapper" style="width:100%; text-align:center">
-<img src="https://berxjonas.github.io/images/EU.png" width="100"/>
-</div>
-<i> This project has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No. 101104602 </i>
-
-Collaborators: Karel Proesmans (Niels Bohr International Academy)
+<i>Collaborators: Karel Proesmans (Niels Bohr International Academy)</i>
 
 Stochastic thermodynamics provides a framework for understanding and quantifying the thermodynamic behaviour of small-scale systems that deviate from equilibrium, taking into account the effects of fluctuations and noise. In contrast with equilibrium thermodynamics,  work and heat are treated as random variables in stochastic thermodynamics, where they can be determined on the level of single trajectories.
 
@@ -21,3 +16,8 @@ $$\mathcal{Q}\equiv T\sigma t\epsilon^2 \geq 2 k_B T\,,$$
 where $T$ is the temperature, $\sigma$ is the entropy production rate, $\epsilon^2 = Var(\mathcal{J}_R)/\langle X\rangle^2$ is the precision, $t$ is the observation time and $k_B$ is the Boltzmann constant.
 
 ![](/images/ERPR_networks.png)
+
+<div id="wrapper" style="width:100%; text-align:center">
+<img src="https://berxjonas.github.io/images/EU.png" width="100"/>
+</div>
+<i> This project has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No. 101104602 </i>
