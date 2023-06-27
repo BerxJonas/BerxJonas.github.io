@@ -18,15 +18,10 @@ Topic of the Phd
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* <b> 05/2023 - present</b>: Marie Curie Postdoctoral Fellow
+Niels Bohr International Academy, Niels Bohr Institute, University of Copenhagen, Denmark
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 11/2022 - 04/2023: 
   
 Skills
 ======
