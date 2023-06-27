@@ -1,7 +1,7 @@
 ---
 title: "Analytic iteration procedure for solitons and traveling wavefronts with sources"
 collection: publications
-permalink: /publication/AnalyticIteration2019
+permalink: /research/stochastic_thermodynamics
 excerpt: ""
 date: 2019-08-26
 venue: 'Journal of Physics A: Mathematical and Theoretical'
