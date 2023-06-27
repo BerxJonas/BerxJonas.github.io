@@ -80,15 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jonas Berx"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Theoretical Physicist specializing in non-equilibrium statistical mechanics and complex systems"
+  location         : "Copenhagen, Denmark"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=zclxsTkAAAAJ&hl=en&oi=ao"
+  email            : "jonas.berx@nbi.ku.dk"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +94,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/jonas-berx/"
+  orcid            : "https://orcid.org/0000-0003-1904-8103"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/berx_jonas"
   vine             :
   weibo            :
   xing             :
