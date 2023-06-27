@@ -27,7 +27,7 @@ Living Matter Physics, Max Planck Institute for Dynamics and Self-Organisation, 
 Education
 ======
 * Ph.D. Theoretical Physics, KU Leuven, Belgium, 2021\
-<b>Topic:</b> Deposition, diffusion and convections: BLUES approximants and some exact results\
+<b>Topic:</b> Deposition, diffusion and convection: BLUES approximants and some exact results\
 [Download thesis](http://berxjonas.github.io/files/pdf/PhD_Berx.pdf)
 * M.Sc. Theoretical Physics, KU Leuven, Belgium, 2018
 * B.Sc. Physics, Hasselt University, Belgium, 2016
