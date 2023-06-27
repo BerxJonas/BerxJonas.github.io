@@ -18,3 +18,12 @@ author_profile: true
     <img src="/images/StochTherm.png" style="width:100%">
   </div>
 </div>
+
+<ul>
+    <li style="display:inline-block;">
+        <a href="index.html" style="text-decoration:none; color:#00FFFF;"><h1>Home</h1></a>
+    </li>
+    <li style="display:inline-block;">
+        <a href="staff.html" style="text-decoration:none; color:#00FFFF;"><h1>Staff</h1></a>
+    </li>
+</ul>
