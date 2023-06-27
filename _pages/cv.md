@@ -39,12 +39,6 @@ Skills
 |---|---|
 | Languages | Dutch (mother tongue), English (full professional knowledge), French, German, Danish (hopefully) |
 | Programming/ICT | C/C++, Mathematica, Matlab, Python, Bash, LaTeX |
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
