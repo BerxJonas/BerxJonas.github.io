@@ -8,7 +8,7 @@ author_profile: true
 Stochastic Thermodynamics
 ======
 
-[http://berxjonas.github.io/images/StochTherm]
+[![Title](http://berxjonas.github.io/images/StochTherm.png)](http://berxjonas.github.io/files/pdf/BLUESsirs.pdf)
 
 
 Analytic approximation of nonlinear differential equations: the BLUES function method
