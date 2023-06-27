@@ -21,4 +21,4 @@ author_profile: true
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](/images/StochTherm.png)  |  ![](/images/StochTherm.png)
+[<img src='/images/StochTherm.png' width="250" height="250">](/research/stochastic_thermodynamics)  |  [<img src='/images/StochTherm.png' width="250" height="250">](/research/stochastic_thermodynamics)
