@@ -5,7 +5,7 @@ permalink: /research/stochastic_thermodynamics
 author_profile: true
 ---
 
-<img src="https://https://berxjonas.github.io/images/EU.png" width="100"><i> This project has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No. 101104602 </i>
+<img src="https://berxjonas.github.io/images/EU.png" width="100"><i> This project has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No. 101104602 </i>
 
 Collaborators: Karel Proesmans (Niels Bohr International Academy)
 
