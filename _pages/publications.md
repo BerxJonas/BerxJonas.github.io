@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+[more](http://berxjonas.github.io/publication/AnalyticIteration2019)
+
 ## 2023
 
 Jonas Berx, Aritra Bose, Ramin Golestanian and Benoît Mahault, &quot;Reentrant condensation transition in a model of driven scalar active matter with diffusivity edge&quot;, <i>EPL</i> <b> 142</b>, 67004 (2023) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-pdf.svg" width="20" height="20">](http://berxjonas.github.io/files/pdf/ReentrantCondensation.pdf) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://dx.doi.org/10.1209/0295-5075/acdcb7)
@@ -21,13 +23,13 @@ Jonas Berx and Joseph O. Indekeu, &quot;Epidemic processes with vaccination and 
 
 ## 2021
 
-Jonas Berx and Joseph O. Indekeu, &quot;BLUES function method applied to partial differential equations and analytic approximants for interface growth under shear&quot;, <i>Phys. Rev. Research </i> <b> 3</b>, 033113 (2021) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-pdf.svg" width="20" height="20">](http://berxjonas.github.io/files/pdf/BLUESPDE.pdf) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">>](https://doi.org/10.1103/PhysRevResearch.3.033113)
+Jonas Berx and Joseph O. Indekeu, &quot;BLUES function method applied to partial differential equations and analytic approximants for interface growth under shear&quot;, <i>Phys. Rev. Research </i> <b> 3</b>, 033113 (2021) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-pdf.svg" width="20" height="20">](http://berxjonas.github.io/files/pdf/BLUESPDE.pdf) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://doi.org/10.1103/PhysRevResearch.3.033113)
 
 Jonas Berx, Evi Bervoets, Claudiu V. Giuraniuc and Joseph O. Indekeu, &quot;Coastlines and percolation in a model for hierarchical random deposition&quot;, <i>Physica A</i> <b>574</b>, 125998 (2021) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-pdf.svg" width="20" height="20">](http://berxjonas.github.io/files/pdf/Coastlines.pdf) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://doi.org/10.1016/j.physa.2021.125998)
 
 ## 2020
 
-Jonas Berx and Joseph O. Indekeu, &quot;BLUES iteration applied to nonlinear ordinary differential equations for wave propagation and heat transfer&quot;, <i>J. Phys. A: Math. Theor.</i> <b> 54</b>, 025702 (2020) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-pdf.svg" width="20" height="20">](http://berxjonas.github.io/files/pdf/BLUESIteration.pdf) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">>](https://dx.doi.org/10.1088/1751-8121/abcf57)
+Jonas Berx and Joseph O. Indekeu, &quot;BLUES iteration applied to nonlinear ordinary differential equations for wave propagation and heat transfer&quot;, <i>J. Phys. A: Math. Theor.</i> <b> 54</b>, 025702 (2020) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-pdf.svg" width="20" height="20">](http://berxjonas.github.io/files/pdf/BLUESIteration.pdf) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://dx.doi.org/10.1088/1751-8121/abcf57)
 
 ## 2019
 
