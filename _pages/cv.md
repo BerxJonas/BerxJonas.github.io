@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download a PDF version of my CV [here](/files/pdf/cv_ENG_2023).
+Download a PDF version of my CV [here](http://berxjonas.github.io/files/pdf/cv_ENG_2023.pdf).
 
 Experience
 ======
