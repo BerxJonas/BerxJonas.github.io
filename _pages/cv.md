@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download a PDF version of my CV [here](/files/cv_ENG_2023).
+
 Experience
 ======
 * <b> 05/2023 - present</b>: Marie Curie Postdoctoral Fellow\
