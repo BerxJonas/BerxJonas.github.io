@@ -5,8 +5,10 @@ permalink: /research/knots_braids
 author_profile: true
 ---
 
-<i>Collaborators: [Alireza Mashaghi](https://www.mashaghilab.org/) (University of Leiden, The Netherlands)</i>\
-<i>Collaborators: [Ioannis Diamantis](https://www.maastrichtuniversity.nl/id-diamantis) (University of Maastricht, The Netherlands)</i>
+<i>Collaborators:</i>
+
+* <i>[Alireza Mashaghi](https://www.mashaghilab.org/) (University of Leiden, The Netherlands)</i>
+* <i>Collaborators: [Ioannis Diamantis](https://www.maastrichtuniversity.nl/id-diamantis) (University of Maastricht, The Netherlands)</i>
 
 A knot refers to a closed loop embedded in three-dimensional space. Knots are characterized by their topological properties, and are hence invariant under any continuous transformation. One of the primary goals of knot theory is to classify different types of knots and understand their properties. Knots are considered equivalent if they can be deformed into one another without cutting or passing the strand through itself, and it is in some cases possible to find an invariant property of knots that is able to distinguish between them (e.g., the HOMFLYPT polynomial or determinant). 
 
