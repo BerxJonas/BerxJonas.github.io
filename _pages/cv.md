@@ -13,7 +13,7 @@ Download a PDF version of my CV [here](http://berxjonas.github.io/files/pdf/cv_E
 
 Experience
 ======
-* <b> 05/2023 - present</b>: Marie Curie Postdoctoral Fellow\
+* <b> 05/2023 - present</b>: Marie Sk&#322;odowska Curie Postdoctoral Fellow\
 Niels Bohr International Academy, Niels Bohr Institute, University of Copenhagen, Denmark\
 MSCA Project: Stochastic Thermodynamics of Biochemical Replication
 
@@ -44,7 +44,7 @@ Skills
   
 Service and leadership
 ======
-* Reviewer: Physica A, Entropy
+* Reviewer: Physica A, Entropy, Physical Review
 
 Teaching and Supervision
 ======
@@ -59,3 +59,30 @@ Teaching and Supervision
    * Experimental Methods in Physics
    * Advanced Physics for Civil Engineering
    * Physics for Business Engineering
+   
+Prizes, awards, honors
+=====
+
+### Individual mobility fellowships
+
+* (2021) Academische Stichting Leuven Travel grant (&euro;	1200); visit to Okayama University, Japan
+* (2021) FWO Travel grant (&euro; 1650); visit to Okayama University, Japan
+* (2021) FWO Travel grant (&euro; 1056); visit to Massachusetts Institute of Technology, USA
+* (2020) MIT-KU Leuven MISTI Global Seed Fund (&#36; 8000); in collaboration with Mehran Kardar and Joseph Indekeu
+* (2019) VLIR-UOS Mobility grant (fully funded travel, &euro; 2100); visit to Stellenbosch University, South-Africa
+* (2019) YouReCa International Mobility grant (fully funded travel, &euro; 2120); visit to Massachusetts Institute of Technology, USA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
