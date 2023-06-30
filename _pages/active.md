@@ -5,6 +5,8 @@ permalink: /research/active_matter
 author_profile: true
 ---
 
+<i>Collaborators: [Ramin Golestanian, Benoi&#770;t Mahault, Aritra Bose](https://www.ds.mpg.de/lmp) (Max Planck Institute for Dynamics and Self-Organisation, Germany)</i>\
+
 The study of collective behavior and dynamics of systems composed of self-propelled entities at the micro or nanoscale is commonly referred to as active matter. These entities possess the ability to convert stored or ambient energy into directed motion, enabling them to actively navigate their environment and exhibit intriguing emergent phenomena.
 
 ## Bose-Einstein-like condensation transition for scalar active matter
