@@ -7,6 +7,10 @@ author_profile: true
 
 ## 2023
 
+Jonas Berx and Alireza Mashaghi, &quot;Decoding chirality in circuit topology of a self entangled chain through braiding&quot;, under review in Soft Matter (2023)
+
+Joseph O. Indekeu, Nguyen Van Thu and Jonas Berx, &quot;Three-component Bose-Einstein condensates and wetting without walls&quot;, under review in Phys. Rev. Lett. (2023)
+
 Jonas Berx, Aritra Bose, Ramin Golestanian and Benoît Mahault, &quot;Reentrant condensation transition in a model of driven scalar active matter with diffusivity edge&quot;, <i>EPL</i> <b> 142</b>, 67004 (2023) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-pdf.svg" width="20" height="20">](http://berxjonas.github.io/files/pdf/ReentrantCondensation.pdf) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://dx.doi.org/10.1209/0295-5075/acdcb7)
 
 ## 2022
@@ -31,6 +35,6 @@ Jonas Berx and Joseph O. Indekeu, &quot;BLUES iteration applied to nonlinear ord
 
 ## 2019
 
-Jonas Berx and Joseph O. Indekeu, &quot;Analytic iteration procedure for solitons and traveling wavefronts with sources&quot;, <i>J. Phys. A: Math. Theor.</i> <b> 52</b>, 38LT01 (2019) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-pdf.svg" width="20" height="20">](http://BerxJonas.github.io/files/pdf/AnalyticIteration.pdf) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://dx.doi.org/10.1088/1751-8121/ab3914) [\[more\]](http://berxjonas.github.io/publication/AnalyticIteration2019)
+Jonas Berx and Joseph O. Indekeu, &quot;Analytic iteration procedure for solitons and traveling wavefronts with sources&quot;, <i>J. Phys. A: Math. Theor.</i> <b> 52</b>, 38LT01 (2019) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-pdf.svg" width="20" height="20">](http://BerxJonas.github.io/files/pdf/AnalyticIteration.pdf) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://dx.doi.org/10.1088/1751-8121/ab3914) 
 
 Stefanie Put, Jonas Berx and Carlo Vanderzande, &quot;Non-Gaussian anomalous dynamics in systems of interacting run-and-tumble particles&quot;, <i>J. Stat. Mech.</i> ,<b>2019</b>(12), 123205 (2019) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-pdf.svg" width="20" height="20">](http://BerxJonas.github.io/files/pdf/NonGaussian.pdf) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://dx.doi.org/10.1088/1742-5468/ab4e90)
