@@ -11,6 +11,8 @@ The BLUES (Beyond Linear Use of Equation Superposition) function method is a pow
 
 My PhD research on the BLUES method involved extending the formalism beyond ordinary differential equations to tackle coupled systems and partial differential equations. One particular example is in epidemiology; the method accurately approximates the time evolution of population fractions in a SIRS model with vaccination, outperforming alternative methods in terms of rapid and global convergence. It accurately predicts the infection peak time and generates analytic expressions closely matching numerical solutions \[5\].
 
+### References:
+
 \[1\] Jonas Berx and Joseph O. Indekeu, &quot;Analytic iteration procedure for solitons and traveling wavefronts with sources&quot;, <i>J. Phys. A: Math. Theor.</i> <b> 52</b>, 38LT01 (2019) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-pdf.svg" width="20" height="20">](http://BerxJonas.github.io/files/pdf/AnalyticIteration.pdf) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://dx.doi.org/10.1088/1751-8121/ab3914) 
 
 \[2\] Jonas Berx and Joseph O. Indekeu, &quot;BLUES iteration applied to nonlinear ordinary differential equations for wave propagation and heat transfer&quot;, <i>J. Phys. A: Math. Theor.</i> <b> 54</b>, 025702 (2020) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-pdf.svg" width="20" height="20">](http://berxjonas.github.io/files/pdf/BLUESIteration.pdf) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://dx.doi.org/10.1088/1751-8121/abcf57)
