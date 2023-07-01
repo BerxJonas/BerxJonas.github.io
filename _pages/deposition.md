@@ -23,6 +23,8 @@ There are two main types of the VA: the Natural Visibility Algorithm (NVA) and t
 
 My research analyses the HRDM by mapping it to a scale-free network by means of the HVA. The resulting network can be shown to be fractal, self-similar, and exhibits hierarchical clustering. 
 
+![](/images/VGs.png)
+
 ### References:
 
 \[1\] Jonas Berx, Evi Bervoets, Claudiu V. Giuraniuc and Joseph O. Indekeu, &quot;Coastlines and percolation in a model for hierarchical random deposition&quot;, <i>Physica A</i> <b>574</b>, 125998 (2021) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-pdf.svg" width="20" height="20">](http://berxjonas.github.io/files/pdf/Coastlines.pdf) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://doi.org/10.1016/j.physa.2021.125998)
