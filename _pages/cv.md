@@ -72,6 +72,10 @@ Prizes, awards, honors
 * (2019) VLIR-UOS Mobility grant (fully funded travel, &euro; 2100); visit to Stellenbosch University, South-Africa
 * (2019) YouReCa International Mobility grant (fully funded travel, &euro; 2120); visit to Massachusetts Institute of Technology, USA
 
+### Prizes
+
+* G-Research November grant (&pound; 1300)
+
 
 
 
