@@ -7,9 +7,9 @@ author_profile: true
 
 ## 2023
 
-Jonas Berx and Alireza Mashaghi, &quot;Decoding chirality in circuit topology of a self entangled chain through braiding&quot;, under review in Soft Matter (2023)
+Jonas Berx and Alireza Mashaghi, &quot;Decoding chirality in circuit topology of a self entangled chain through braiding&quot;, <i>Soft Matter</i> (2023) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-pdf.svg" width="20" height="20">](http://berxjonas.github.io/files/pdf/Chirality_CT.pdf) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://doi.org/10.1039/D3SM00390F)
 
-Joseph O. Indekeu, Nguyen Van Thu and Jonas Berx, &quot;Three-component Bose-Einstein condensates and wetting without walls&quot;, under review in Phys. Rev. Lett. (2023)
+Joseph O. Indekeu, Nguyen Van Thu and Jonas Berx, &quot;Three-component Bose-Einstein condensates and wetting without walls&quot;, under review in Phys. Rev. A (2023)
 
 Jonas Berx, Aritra Bose, Ramin Golestanian and Benoît Mahault, &quot;Reentrant condensation transition in a model of driven scalar active matter with diffusivity edge&quot;, <i>EPL</i> <b> 142</b>, 67004 (2023) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-pdf.svg" width="20" height="20">](http://berxjonas.github.io/files/pdf/ReentrantCondensation.pdf) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://dx.doi.org/10.1209/0295-5075/acdcb7)
 
