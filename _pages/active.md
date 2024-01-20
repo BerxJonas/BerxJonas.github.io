@@ -20,7 +20,8 @@ In this context, my research investigates the motion of a tagged particle in dif
 
 For many lab-on-a-chip applications in modern medicine, the study of mixing in microfluidics is of seminal importance. However, due to high Peclet and low Reynolds numbers, both diffusion and turbulence are ineffective approaches to induce efficient mixing. The only remaining avenue is then active stirring, which needs to be fine-tuned to result in chaotic mixing. My research investigates whether active particles in confined geometries (such as a microfluidic sensor) can act as active stirrers, removing the need for mechanical stirring or the microscale attunement of the boundary in order to generate chaotic mixing. Since the particles trace out entangled spacetime trajectories, I use braiding theory to find the optimal parameter configurations leading to the highest degree of mixing. 
 
-[<img src='/images/3Dbraid.jpg' width="300" height="300">](/research/active_matter)
+[<img src='/images/3Dbraid.jpg' width="300" height="300">]()
+*Caption test*
 
 
 
