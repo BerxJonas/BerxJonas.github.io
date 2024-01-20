@@ -17,4 +17,6 @@ The study of collective behavior and dynamics of systems composed of self-propel
 
 [BLUES function method](/research/blues) 
 
+The BLUES (Beyond Linear Use of Equation Superposition) function method is a powerful approach for analytically solving (nonlinear) differential equations. It employs an iterative procedure to find approximations to the solution and is effective for nonlinear ordinar and partial differential equations.
+
 [Surface growth](/research/deposition)
