@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<ol>
 ## 2024
 
 Jonas Berx, &quot;Dynamic control of the Bose-Einstein-like condensation transition in scalar active matter&quot;, under review in New Journal of Physics (2024) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://doi.org/10.48550/arXiv.2312.09823)
@@ -22,7 +21,7 @@ Jonas Berx and Alireza Mashaghi, &quot;Decoding chirality in circuit topology of
 
 Joseph O. Indekeu, Nguyen Van Thu and Jonas Berx, &quot;Three-component Bose-Einstein condensates and wetting without walls&quot;, under review in Phys. Rev. A (2023) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://doi.org/10.48550/arXiv.2309.13708)
 
-<li> Jonas Berx, Aritra Bose, Ramin Golestanian and Benoît Mahault, &quot;Reentrant condensation transition in a model of driven scalar active matter with diffusivity edge&quot;, <i>EPL</i> <b> 142</b>, 67004 (2023) </li> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-pdf.svg" width="20" height="20">](http://berxjonas.github.io/files/pdf/ReentrantCondensation.pdf) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://dx.doi.org/10.1209/0295-5075/acdcb7)
+Jonas Berx, Aritra Bose, Ramin Golestanian and Benoît Mahault, &quot;Reentrant condensation transition in a model of driven scalar active matter with diffusivity edge&quot;, <i>EPL</i> <b> 142</b>, 67004 (2023) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-pdf.svg" width="20" height="20">](http://berxjonas.github.io/files/pdf/ReentrantCondensation.pdf) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://dx.doi.org/10.1209/0295-5075/acdcb7)
 
 ## 2022
 
@@ -46,8 +45,10 @@ Jonas Berx and Joseph O. Indekeu, &quot;BLUES iteration applied to nonlinear ord
 
 ## 2019
 
-Jonas Berx and Joseph O. Indekeu, &quot;Analytic iteration procedure for solitons and traveling wavefronts with sources&quot;, <i>J. Phys. A: Math. Theor.</i> <b> 52</b>, 38LT01 (2019) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-pdf.svg" width="20" height="20">](http://BerxJonas.github.io/files/pdf/AnalyticIteration.pdf) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://dx.doi.org/10.1088/1751-8121/ab3914) 
+<ol reversed>
 
-Stefanie Put, Jonas Berx and Carlo Vanderzande, &quot;Non-Gaussian anomalous dynamics in systems of interacting run-and-tumble particles&quot;, <i>J. Stat. Mech.</i> ,<b>2019</b>(12), 123205 (2019) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-pdf.svg" width="20" height="20">](http://BerxJonas.github.io/files/pdf/NonGaussian.pdf) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://dx.doi.org/10.1088/1742-5468/ab4e90)
+<li> Jonas Berx and Joseph O. Indekeu, &quot;Analytic iteration procedure for solitons and traveling wavefronts with sources&quot;, <i>J. Phys. A: Math. Theor.</i> <b> 52</b>, 38LT01 (2019) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-pdf.svg" width="20" height="20">](http://BerxJonas.github.io/files/pdf/AnalyticIteration.pdf) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://dx.doi.org/10.1088/1751-8121/ab3914) </li>
+
+<li> Stefanie Put, Jonas Berx and Carlo Vanderzande, &quot;Non-Gaussian anomalous dynamics in systems of interacting run-and-tumble particles&quot;, <i>J. Stat. Mech.</i> ,<b>2019</b>(12), 123205 (2019) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-pdf.svg" width="20" height="20">](http://BerxJonas.github.io/files/pdf/NonGaussian.pdf) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://dx.doi.org/10.1088/1742-5468/ab4e90) </li>
 
 </ol>
