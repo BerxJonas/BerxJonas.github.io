@@ -22,7 +22,7 @@ Jonas Berx and Alireza Mashaghi, &quot;Decoding chirality in circuit topology of
 
 Joseph O. Indekeu, Nguyen Van Thu and Jonas Berx, &quot;Three-component Bose-Einstein condensates and wetting without walls&quot;, under review in Phys. Rev. A (2023) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://doi.org/10.48550/arXiv.2309.13708)
 
-<li> Jonas Berx, Aritra Bose, Ramin Golestanian and Benoît Mahault, &quot;Reentrant condensation transition in a model of driven scalar active matter with diffusivity edge&quot;, <i>EPL</i> <b> 142</b>, 67004 (2023) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-pdf.svg" width="20" height="20">](http://berxjonas.github.io/files/pdf/ReentrantCondensation.pdf) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://dx.doi.org/10.1209/0295-5075/acdcb7) </li>
+<li> Jonas Berx, Aritra Bose, Ramin Golestanian and Benoît Mahault, &quot;Reentrant condensation transition in a model of driven scalar active matter with diffusivity edge&quot;, <i>EPL</i> <b> 142</b>, 67004 (2023) </li> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-pdf.svg" width="20" height="20">](http://berxjonas.github.io/files/pdf/ReentrantCondensation.pdf) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://dx.doi.org/10.1209/0295-5075/acdcb7)
 
 ## 2022
 
@@ -38,7 +38,7 @@ Jonas Berx and Joseph O. Indekeu, &quot;Epidemic processes with vaccination and 
 
 Jonas Berx and Joseph O. Indekeu, &quot;BLUES function method applied to partial differential equations and analytic approximants for interface growth under shear&quot;, <i>Phys. Rev. Research </i> <b> 3</b>, 033113 (2021) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-pdf.svg" width="20" height="20">](http://berxjonas.github.io/files/pdf/BLUESPDE.pdf) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://doi.org/10.1103/PhysRevResearch.3.033113)
 
-<li> Jonas Berx, Evi Bervoets, Claudiu V. Giuraniuc and Joseph O. Indekeu, &quot;Coastlines and percolation in a model for hierarchical random deposition&quot;, <i>Physica A</i> <b>574</b>, 125998 (2021) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-pdf.svg" width="20" height="20">](http://berxjonas.github.io/files/pdf/Coastlines.pdf) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://doi.org/10.1016/j.physa.2021.125998) </li>
+Jonas Berx, Evi Bervoets, Claudiu V. Giuraniuc and Joseph O. Indekeu, &quot;Coastlines and percolation in a model for hierarchical random deposition&quot;, <i>Physica A</i> <b>574</b>, 125998 (2021) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-pdf.svg" width="20" height="20">](http://berxjonas.github.io/files/pdf/Coastlines.pdf) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://doi.org/10.1016/j.physa.2021.125998)
 
 ## 2020
 
