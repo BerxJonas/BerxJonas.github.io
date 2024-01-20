@@ -9,6 +9,12 @@ author_profile: true
 
 [Stochastic Thermodynamics](/research/stochastic_thermodynamics)
 
-[<img src='/images/BEC.png' width="300" height="300">](/research/active_matter) [<img src='/images/braided_polymer.png' width="300" height="300">](/research/knots_braids)
+[Active Matter>](/research/active_matter)
 
-[<img src='/images/blues2.png' width="300" height="300">](/research/blues) [<img src='/images/islands.png' width="300" height="300">](/research/deposition)
+The study of collective behavior and dynamics of systems composed of self-propelled entities at the micro or nanoscale is commonly referred to as active matter. These entities possess the ability to convert stored or ambient energy into directed motion, enabling them to actively navigate their environment and exhibit intriguing emergent phenomena. My research focuses mainly on collective, emergent behaviour of active matter, ranging from lattice models, Bose-Einstein-like condensation to topological mixing.
+
+[Knots and braids>](/research/knots_braids)
+
+[BLUES function method>](/research/blues) 
+
+[Surface growth](/research/deposition)
