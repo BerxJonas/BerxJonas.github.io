@@ -5,7 +5,7 @@ permalink: /research/stochastic_thermodynamics
 author_profile: true
 ---
 
-<i>Collaborators: Karel Proesmans (Niels Bohr International Academy)</i>
+<i>Collaborators: [Karel Proesmans](https://nbia.nbi.ku.dk/members/junior-faculty/karel-proesmanns/) (Niels Bohr International Academy)</i>
 
 Stochastic thermodynamics provides a framework for understanding and quantifying the thermodynamic behaviour of small-scale systems that deviate from equilibrium, taking into account the effects of fluctuations and noise. In contrast with equilibrium thermodynamics,  work and heat are treated as random variables in stochastic thermodynamics, where they can be determined on the level of single trajectories.
 
